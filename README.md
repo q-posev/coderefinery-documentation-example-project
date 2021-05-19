@@ -5,3 +5,9 @@ Example project for coderefinery documentation lesson
 
 - `git clone https://github.com/q-posev/coderefinery-documentation-example-project.git`
 - `cd coderefinery-documentation-example-project`
+
+
+## Requirements
+
+- python3
+- Python packages are listed in `requirements.txt`
